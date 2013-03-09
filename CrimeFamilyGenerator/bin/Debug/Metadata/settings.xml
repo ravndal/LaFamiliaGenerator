@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GangseterNameSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FamilyName>The Cosa Nova</FamilyName>
+  <GodfatherFirstname>Giuseppe</GodfatherFirstname>
+  <GodfatherLastname>Morello</GodfatherLastname>
+  <GodfatherIsActuallyAWoman>false</GodfatherIsActuallyAWoman>
+  <GodfatherCity>New York</GodfatherCity>
+  <GodfatherState>New York</GodfatherState>
+  <FamilyCountry>USA</FamilyCountry>
+  <ADFormatString>New-ADUser -Path 'OU=ATEA,DC=novadev,DC=no' -SamAccountName "{Accountname}" -Name "{Firstname}" -Country "USA" -City "{City}" -Office "{City}" -GivenName "{Fullname}" -MobilePhone "{PhoneNumber}" -EmailAddress "{Accountname}@cosanova.org" -Company "{Gangname}" -Department "{Department}" -DisplayName "{Fullname}" -AccountPassword (ConvertTo-SecureString -AsPlainText "{Password}" -Force) -State "{State}" -Title "{Title}" -Surname "{Lastname}" -PasswordNeverExpires $true -UserPrincipalName "{Accountname}" -Manager "{Manager}" -Enabled $true</ADFormatString>
+  <ADPassword>CosaNova2013</ADPassword>
+  <ADGenerateUniquePassword>true</ADGenerateUniquePassword>
+</GangseterNameSettings>

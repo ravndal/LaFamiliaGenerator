@@ -1,0 +1,12 @@
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\Metadata\cities.txt
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\Metadata\settings.xml
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\Metadata\departments.txt
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\Metadata\femalenames.txt
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\Metadata\lastnames.txt
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\Metadata\malenames.txt
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\Metadata\titles.xml
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\CrimeFamilyGenerator.exe
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\bin\Debug\CrimeFamilyGenerator.pdb
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\obj\Debug\CrimeFamilyGenerator.csprojResolveAssemblyReference.cache
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\obj\Debug\CrimeFamilyGenerator.exe
+C:\Dev\LaFamiliaGenerator\CrimeFamilyGenerator\obj\Debug\CrimeFamilyGenerator.pdb

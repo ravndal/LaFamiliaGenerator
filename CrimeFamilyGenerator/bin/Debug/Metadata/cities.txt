@@ -1,0 +1,14 @@
+﻿Buffalo;New York
+Chicago;Illinois
+Cleveland;Ohio
+Denver;Colorado
+Detroit;Michigan
+Kansas City;Missouri
+Los Angeles;California
+Atlantic City;New Jersey
+New Orleans;Louisiana
+New York;New York
+Philadelphia;Pennsylvania
+Pittsburgh;Pennsylvania
+San Francisco;California
+St. Louis;Missouri
